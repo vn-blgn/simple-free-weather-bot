@@ -1,0 +1,16 @@
+{
+  "name": "weather_bot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {},
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^8.2.0",
+    "node-fetch": "^2.6.1",
+    "telegraf": "^3.38.0",
+    "transliteration": "^2.2.0"
+  }
+}
